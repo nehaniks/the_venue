@@ -1,4 +1,3 @@
-import { SettingsInputAntennaTwoTone } from "@material-ui/icons";
 import React, { useState, useEffect } from "react";
 import { Fade, Slide } from "react-awesome-reveal";
 
